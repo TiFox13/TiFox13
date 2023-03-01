@@ -1,7 +1,13 @@
-### Hi there 👋
+### ✨ Привет! ✨
 
-<!--
-**TiFox13/TiFox13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Активно изучаю front-end. Чтобы, как говорится, "уйти в IT"!
+Пока тут одни учебные проекты, но надо же с чего-то начинать.
+
+Знаю я пока не очень много, но уже кое-что знаю:
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
 
 Here are some ideas to get you started:
 
