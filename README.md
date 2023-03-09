@@ -1,6 +1,6 @@
 ### ✨ Привет! ✨
 
-Активно изучаю front-end в Я.Практикуме . Чтобы, как говорится, "уйти в IT"!)
+Активно изучаю front-end в Я.Практикуме. Чтобы, как говорится, "уйти в IT"!)
 Пока тут одни учебные проекты, но надо же с чего-то начинать.
 
 Знаю я пока не очень много, но уже кое-что знаю:
@@ -11,4 +11,4 @@
 * ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 * ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-:zap: Забавный факт. как вы уже заметили, я люблю лис)
+:zap: Забавный факт. Как вы уже заметили, я люблю лис)
